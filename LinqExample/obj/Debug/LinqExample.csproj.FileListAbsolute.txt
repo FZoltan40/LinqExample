@@ -1,0 +1,8 @@
+C:\Users\farkasz\C#Projects\LinqExample\LinqExample\bin\Debug\LinqExample.exe.config
+C:\Users\farkasz\C#Projects\LinqExample\LinqExample\bin\Debug\LinqExample.exe
+C:\Users\farkasz\C#Projects\LinqExample\LinqExample\bin\Debug\LinqExample.pdb
+C:\Users\farkasz\C#Projects\LinqExample\LinqExample\obj\Debug\LinqExample.csproj.AssemblyReference.cache
+C:\Users\farkasz\C#Projects\LinqExample\LinqExample\obj\Debug\LinqExample.csproj.CoreCompileInputs.cache
+C:\Users\farkasz\C#Projects\LinqExample\LinqExample\obj\Debug\LinqExample.exe
+C:\Users\farkasz\C#Projects\LinqExample\LinqExample\obj\Debug\LinqExample.pdb
+C:\Users\farkasz\C#Projects\LinqExample\LinqExample\obj\Debug\LinqExample.exe.config
